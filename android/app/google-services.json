@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485095301332",
+    "project_id": "yemektarif-248dc",
+    "storage_bucket": "yemektarif-248dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485095301332:android:0086d1220e8798a52f5b41",
+        "android_client_info": {
+          "package_name": "com.example.yemektarif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485095301332-3thjmsrv6eo7h1j1siocj35lrnht0noo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yemektarif",
+            "certificate_hash": "d1b07aba975193a447a2e72f670829cd40717870"
+          }
+        },
+        {
+          "client_id": "485095301332-888mmhhou4vcphg2u7e1f2eiq0mulp10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPkPjQLzMOWxMdOYlWIfvm2UOxmdnIl3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485095301332-888mmhhou4vcphg2u7e1f2eiq0mulp10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
