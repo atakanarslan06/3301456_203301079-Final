@@ -88,7 +88,7 @@ class YemekTarifi extends StatelessWidget {
               yemekMalzeme, //Yemek malzemelerini çekiyoruz.
               style: GoogleFonts.inter(
                   textStyle: TextStyle(
-                      fontSize: 20, color: Color.fromARGB(255, 105, 105, 105))),
+                      fontSize: 20, color: Colors.green.shade200)),
             ),
           ),
           Container(
@@ -113,7 +113,7 @@ class YemekTarifi extends StatelessWidget {
                     style: GoogleFonts.inter(
                         textStyle: TextStyle(
                             fontSize: 16,
-                            color: Color.fromARGB(255, 105, 105, 105))),
+                            color: Colors.green.shade200)),
                   ),
                 ),
               ],
